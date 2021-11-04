@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @coder1706
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on anything beginner friendly
+- 👀 I’m interested in Web/App dev
+- 🌱 I’m currently learning MERN stack
+- 💞️ I’m looking to collaborate on anything which can help me in practice MERN
 - 📫 How to reach me https://www.linkedin.com/in/kunal-giri-67058517b/
 
 <!---
